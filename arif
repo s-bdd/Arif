@@ -1,0 +1,25 @@
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="INTERNET TV" ,TLC Hindi-1
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC [Hindi]-2
+http://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC (English)-3
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC HD [English]-4
+http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="INTERNET TV" ,TLC Hindi-5
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="INTERNET TV" ,TLC-6
+http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC HD-7
+http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC HD (2)-8
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="AmrBD-BDIX (সবার চলবে না)", TLC-9 
+http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Anik", TLC-10
+https://cutt.ly/6nFF7Yd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Tlc-11
+https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/NIfMrhI.png” group-title=”AMRBD LIVE”,Discovery-1
+http://tv.aliflailabd.com:8989/discovery/index.m3u8
